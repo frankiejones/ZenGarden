@@ -16,3 +16,5 @@ manipulating the CSS file do makeit match the print screen.
 - [ ] make<p role="contentinfo"> wide enough to fit the page
 - [ ] show the abbr when hovering
 - [ ] tidying up the height of some areas wiht different colours
+
+# Future Improvements
